@@ -5,7 +5,7 @@
 ## `download_vec.py`
 このモジュールは，スクレイピングパッケージ(requests と BeautifulSoup)を用いて，fastText公式サイトのHTMLから対象ファイルからダウンロードURLを特定してダウンロードします．
 
-## `download_fasttext_vec`
+#### `download_fasttext_vec(lang_code, save_dir)`
 Facebook (Meta) が公開している fastText の事前学習済み単語ベクトルを自動的に取得するための関数です．
 
 ## `calc_homology.py`
