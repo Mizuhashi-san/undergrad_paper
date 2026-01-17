@@ -1,0 +1,10 @@
+.DS_Store
+codes/.DS_Store
+codes/.ipynb_checkpoints/1_download_vec-checkpoint.ipynb
+codes/.ipynb_checkpoints/2_calc_homology-checkpoint.ipynb
+codes/.ipynb_checkpoints/3_bars_statistics-checkpoint.ipynb
+codes/.ipynb_checkpoints/paper-checkpoint.ipynb
+codes/__pycache__/bars_statistics.cpython-313.pyc
+codes/__pycache__/calc_homology.cpython-313.pyc
+codes/__pycache__/download_vec.cpython-313.pyc
+data/.DS_Store
